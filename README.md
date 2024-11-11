@@ -1,2 +1,2 @@
-# Consumer_goods_analytics
+# Consumer_goods_analytics -- MySQL
 In this project, I solved 10 business requests using SQL, analyzing sales and customer data to uncover key insights, such as top-performing products and fast-growing regions. I presented actionable recommendations for decision-makers, refining both my technical skills and my ability to communicate insights effectively to executive management.
